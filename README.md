@@ -27,6 +27,6 @@ Weather APIs
 
 📷 Screenshots
 
-Dashboard Picture: 
+Dashboard Picture: https://github.com/Azault-Ak/Weather-Analytics-Power-BI-Dashboard/blob/main/Screenshot%202025-07-25%20111236.png
 
 
